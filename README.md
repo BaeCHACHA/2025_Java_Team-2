@@ -1,6 +1,18 @@
 # 2025_Java_Team-2
 2025 Java Team Project team 2 - mini git hub / mini cloud / source code sharing platform
 
+---
+
+## 👥 Team Members
+
+- **강승윤**
+- **김우현**
+- **박현욱**
+- **배지훈**
+- **이동훈**
+
+---
+
 ## 🛠 개발 환경
 
 - **OS**: Windows 11
@@ -61,6 +73,8 @@
 - AWS S3 또는 클라우드 파일 저장 연동
 - 프로젝트 팀별 문서 관리 플랫폼으로 발전 가능성 有
 - 소스코드 외 다양한 종류의 파일 공유기능으로 확장 가능
+
+---
 
 ## 🪪 라이선스
 
